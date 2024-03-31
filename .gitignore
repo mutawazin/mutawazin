@@ -1,0 +1,12 @@
+# Generated
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable
+hugo.linux
+
+# Temporary
+/.hugo_build.lock
+

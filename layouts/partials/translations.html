@@ -1,0 +1,20 @@
+{{ if .IsTranslated }}
+<div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    {{ $currentLanguage := .Language.Lang }}
+    {{ $oppositeLanguage := "" }}
+    {{ $hasOppositeLanguage := false }}
+    {{ range .AllTranslations }}
+      {{ if ne .Language.Lang $currentLanguage }}
+        {{ $oppositeLanguage := .Language.Lang }}
+        {{ $hasOppositeLanguage := true }}
+        <a href="{{ .RelPermalink }}" class="text-base font-medium text-gray-500" title="{{ .Title }}">
+          {{ .Language.Params.displayName | emojify }}
+        </a>
+        {{ break }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+

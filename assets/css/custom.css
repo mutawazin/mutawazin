@@ -1,0 +1,16 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/Cairo-VariableFont_slnt,wght.woff2');
+}
+
+html {
+    font-family: font;
+}
+
+.space-x-5>a {
+  --tw-space-x-reverse: 0;
+  margin-right: calc(1.25rem * var(--tw-space-x-reverse));
+  margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+
