@@ -1,12 +1,13 @@
 +++
 title = 'Saving Instruments'
 date = 2024-04-15T10:11:54+02:00
+lastmod = 2024-04-20T06:02:39+02:00
 draft = false
 categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 +++
 ## Savings Accounts
 
-### Characteristics
+### Common Characteristics
 
 - Variable interest rate.
 - Interest is accrued based on the lowest monthly credit balance.
@@ -14,6 +15,7 @@ categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 - Funds can be withdrawn, deposited, or transferred at any time.
 - Debit cards can be issued and used for withdrawals, deposits, transfers, or purchases.
 - Credit balance can be utilized to purchase time deposits or certificates of deposit (CDs).
+- Charge administrative fees.
 
 ### Return
 
@@ -25,7 +27,7 @@ Offer high liquidity as funds can be withdrawn or transferred at any time, subje
 
 ## Time Deposits
 
-### Characteristics
+### Common Characteristics
 
 - Minimum purchase amount required.
 - Duration ranges from seven days to seven years.
@@ -47,7 +49,7 @@ Offer moderate liquidity as funds can be withdrawn at any time, but with with a 
 
 ## Certificates of Deposit (CDs)
 
-### Characteristics
+### Common Characteristics
 
 - Minimum purchase amount required.
 - Duration ranges from three years to ten years.
