@@ -1,6 +1,7 @@
 +++
 title = 'Bank Card Types'
 date = 2024-04-28T09:15:27+03:00
+lastmod = 2024-05-01T08:29:40+03:00
 draft = false
 categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 +++
@@ -15,6 +16,7 @@ Credit cards allow cardholders to borrow funds up to a predetermined limit for t
 - Credit limit can be used for purchases, cash withdrawals, or balance transfers to other accounts.
 - Interest-free period of up to 55-57 days (comprising a standard 30-day billing cycle and a 25-to-27-day grace period).
 - Minimum payment is required each billing cycle.
+- Late fee is applied if the minimum payment not made by the due date.
 - Interest is charged on any remaining balance after the grace period ends.
 - Supplementary cards with controlled limits can be issued.
 - Purchases and cash withdrawals can be repaid in installments at a lower interest rate.
