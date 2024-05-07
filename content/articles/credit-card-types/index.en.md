@@ -1,6 +1,7 @@
 +++
 title = 'Credit Card Types'
 date = 2024-05-01T08:10:47+03:00
+lastmod = 2024-05-07T06:04:05+03:00
 draft = false
 categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 +++
@@ -20,7 +21,7 @@ categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 - Credit limit is up to three times the income.
 - High debit interest rate.
     
-## Shared Characteristics between Secured Credit Cards and Unsecured Credit Cards
+## Common Characteristics Shared between Secured Credit Cards and Unsecured Credit Cards
 
 - Credit limit can be used for purchases, cash withdrawals, or balance transfers to other accounts.
 - Interest-free period of up to 55-57 days (comprising a standard 30-day billing cycle and a 25-to-27-day grace period).
