@@ -63,10 +63,15 @@
   weight = 20
 
 [[main]]
+  name = "العلامات"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/mutawazin/mutawazin"
-  weight = 30
+  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
