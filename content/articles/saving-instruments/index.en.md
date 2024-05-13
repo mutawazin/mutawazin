@@ -1,7 +1,7 @@
 +++
 title = 'Saving Instruments'
 date = 2024-04-15T10:11:54+02:00
-lastmod = 2024-05-12T09:05:43+03:00
+lastmod = 2024-05-13T09:21:50+03:00
 draft = false
 categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 +++
@@ -15,7 +15,7 @@ categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 - Interest payments can be made at different frequencies (daily, monthly, quarterly, semi-annually, or annually).
 - Funds can be withdrawn, deposited, or transferred at any time, subject to certain limitations such as daily, monthly, and transaction limits.
 - Debit cards can be issued and used for withdrawals, deposits, transfers, or purchases.
-- Credit balance can be utilized to purchase time deposits or certificates of deposit (CDs).
+- Credit balance can be utilized to pay credit cards debt or to purchase time deposits or certificates of deposit (CDs).
 - Charge administrative fees.
 
 ### Return
