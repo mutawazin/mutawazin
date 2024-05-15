@@ -1,6 +1,7 @@
 +++
 title = 'Time Deposits vs. Certificates of Deposit (CDs)'
 date = 2024-05-10T08:49:46+03:00
+lastmod = 2024-05-15T09:28:45+03:00
 draft = false
 categories = ["Finance", "Personal Finance", "Saving", "Banking"]
 tags = ["Comparisons"]
@@ -27,7 +28,7 @@ Interest accrued from time deposits can be added to the deposits, current accoun
 
 ### Early Redemption
 
-Time deposits can be redeemed prior to maturity either fully or partially at any time, whereas certificates of deposit (CDs) cannot be redeemed before six months from the business day following the day of purchase.
+Time deposits can be redeemed prior to maturity either fully or partially at any time, whereas certificates of deposit (CDs) cannot be redeemed before six months from the business day following the day of purchase. However, redeeming time deposits or certificates of deposit (CDs) prior to maturity either fully or partially results in a partial loss of interest.
 
 ### Return
 
