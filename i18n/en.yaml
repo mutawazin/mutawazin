@@ -68,6 +68,7 @@ sharing:
   twitter: "Share on X"
   whatsapp: "Send via WhatsApp"
   telegram: "Send via Telegram"
+  bluesky: "Share on Bluesky"
 
 shortcode:
   recent_articles: "Recent"

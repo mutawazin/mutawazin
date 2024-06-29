@@ -68,6 +68,7 @@ sharing:
   twitter: "مشاركة على إكس"
   whatsapp: "إرسال من خلال واتساب"
   telegram: "إرسال من خلال تيليجرام"
+  bluesky: "مشاركة على بلوسكاي"
 
 shortcode:
   recent_articles: "آخر المقالات"
