@@ -52,6 +52,7 @@ title = "Mutawazin"
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
