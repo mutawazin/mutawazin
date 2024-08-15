@@ -15,7 +15,9 @@ title = "متوازن"
 
  [author]
    name = "متوازن"
+#   email = "youremail@example.com"
    image = "img/mutawazin-arabic-author-image-standard-color-emerald-green.png"
+#   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
    links = [
