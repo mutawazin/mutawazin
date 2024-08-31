@@ -47,7 +47,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "articles"
+  showMoreLinkDest = "/articles/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -80,8 +80,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  sharingLinks = [ "facebook","twitter", "bluesky", "linkedin", "pinterest", "reddit", "whatsapp", "telegram", "email" ]
+  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "facebook","twitter", "bluesky", "mastodon", "linkedin", "pinterest", "reddit", "whatsapp", "telegram", "email" ]
   showZenMode = true
 
 [list]

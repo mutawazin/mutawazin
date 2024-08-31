@@ -1,3 +1,4 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -13,7 +14,7 @@ title = "Mutawazin"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [author]
+ [params.author]
    name = "Mutawazin"
 #   email = "youremail@example.com"
    image = "img/mutawazin-english-author-image-standard-color-emerald-green.png"
